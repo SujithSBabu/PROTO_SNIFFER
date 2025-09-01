@@ -1,0 +1,2 @@
+../ECUAL/Src/gpio.c:44:6:gpio_user_cfg_init	4
+../ECUAL/Src/gpio.c:63:6:gpio_init	1

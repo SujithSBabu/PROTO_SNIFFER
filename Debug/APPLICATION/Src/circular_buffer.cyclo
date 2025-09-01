@@ -1,0 +1,6 @@
+../APPLICATION/Src/circular_buffer.c:19:6:cb_init	1
+../APPLICATION/Src/circular_buffer.c:25:6:cb_push	2
+../APPLICATION/Src/circular_buffer.c:36:6:cb_pop	2
+../APPLICATION/Src/circular_buffer.c:47:6:cb_gyro_init	1
+../APPLICATION/Src/circular_buffer.c:53:6:cb_push_gyro	2
+../APPLICATION/Src/circular_buffer.c:64:6:cb_pop_gyro	2

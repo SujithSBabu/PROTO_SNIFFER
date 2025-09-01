@@ -1,0 +1,2 @@
+../MCAL/Src/peripheral_clock.c:13:10:get_pclk_value	6
+../MCAL/Src/peripheral_clock.c:59:6:RCC_GetPLL_Output_Clk	1

@@ -1,0 +1,2 @@
+../APPLICATION/Src/log_data.c:18:6:log_data	24	static
+../APPLICATION/Src/log_data.c:36:6:i2c_gyro_log_data	8	static

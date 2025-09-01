@@ -1,0 +1,5 @@
+../MCAL/Src/i2c_stm32.c:13:6:i2c_stm32_init	7
+../MCAL/Src/i2c_stm32.c:102:6:i2c_stm32_master_write_data	5
+../MCAL/Src/i2c_stm32.c:144:9:i2c_stm32_master_read_data	15
+../MCAL/Src/i2c_stm32.c:251:6:I2C1_irq_enable	1
+../MCAL/Src/i2c_stm32.c:257:6:I2C1_EV_IRQHandler	1

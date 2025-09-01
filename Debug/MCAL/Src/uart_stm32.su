@@ -1,0 +1,7 @@
+../MCAL/Src/uart_stm32.c:14:6:usart_stm32_init	16	static
+../MCAL/Src/uart_stm32.c:42:6:usart_set_baudrate	40	static
+../MCAL/Src/uart_stm32.c:84:6:usart_stm32_send_char	16	static
+../MCAL/Src/uart_stm32.c:94:6:usart_stm32_send_string	16	static
+../MCAL/Src/uart_stm32.c:103:6:usart_stm32_send_hex	24	static
+../MCAL/Src/uart_stm32.c:124:6:enable_usart2_irq	4	static
+../MCAL/Src/uart_stm32.c:130:6:USART2_IRQHandler	16	static

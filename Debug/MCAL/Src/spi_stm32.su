@@ -1,0 +1,4 @@
+../MCAL/Src/spi_stm32.c:17:6:spi_stm32_init	16	static
+../MCAL/Src/spi_stm32.c:65:6:spi_stm32_send_frame	24	static
+../MCAL/Src/spi_stm32.c:84:6:spi2_irq_enable	4	static
+../MCAL/Src/spi_stm32.c:90:6:SPI2_IRQHandler	24	static
