@@ -31,9 +31,13 @@ It also supports SPI loopback testing and live Gyroscope/Accelerometer sensor da
 
 **Hardware Requirements**
 1)STM32F407 Discovery Board (or compatible Cortex-M4 MCU).
+
 2)GY-521 Gyroscope Module (I2C).
+
 3)UART-USB Bridge (e.g., CP2102) for terminal output.
+
 4)SPI Loopback jumper (MISO ↔ MOSI).
+
 5)Logic Level Shifter for interfacing MCU with GY-521 (if required).
 
 **Software Requirements**
