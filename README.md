@@ -28,6 +28,7 @@ It also supports SPI loopback testing and live Gyroscope/Accelerometer sensor da
 5) Polling + Interrupt Hybrid Design for responsiveness & stability.
 6) Awareness of race conditions and why interrupts are avoided in some I2C scenarios.
 
+
 **Hardware Requirements**
 1)STM32F407 Discovery Board (or compatible Cortex-M4 MCU).
 2)GY-521 Gyroscope Module (I2C).
